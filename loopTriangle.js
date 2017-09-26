@@ -1,1 +1,1 @@
-console.log(abc)
+document.getElementById("boo").onclick = console.log(boo);
